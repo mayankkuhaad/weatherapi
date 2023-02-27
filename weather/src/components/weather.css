@@ -1,0 +1,17 @@
+.main{
+    border: 1px solid red;
+    background-color: antiquewhite;
+}
+.major {
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+}
+#valid{
+    background-color: red;
+    height: 50px;
+    font-size: xx-large;
+}
+#blue{
+    color: blue;
+}
